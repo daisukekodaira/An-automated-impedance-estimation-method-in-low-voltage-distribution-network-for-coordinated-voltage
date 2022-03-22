@@ -11,6 +11,12 @@ Matlab 2019
 ## About Authors
 - [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en), daisuke.kodaira03 AT gmail.com
 
+## How to use
+- You can run the code from  
+ \ImpedanceEstimation\Code\pso calc\main.m  
+- You can get the estimated impedance in  
+ EstimatedImpedance.csv  
+
 ## 22nd March 2022 Update
 First Update.
 
