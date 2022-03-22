@@ -9,10 +9,9 @@ Internode line impedance values are essential information for achieving coordina
 Matlab 2019
 
 ## About Authors
-
 - [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en), daisuke.kodaira03 AT gmail.com
 
-# 22nd March 2022 Update
+## 22nd March 2022 Update
 First Update.
 
 ## Thank You for Reading!!!
