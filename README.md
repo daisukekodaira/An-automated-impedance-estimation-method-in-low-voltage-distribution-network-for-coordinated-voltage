@@ -1,4 +1,4 @@
-## What is this?
+## What are these codes?
 This is the offical implementation of the published paper. Please cite this work:  
 >S. Han, D. Kodaira*, S. Han, B. Kwon, Y. Hasegawa, and H. Aki, ”An Automated Impedance Estimation Method in Low-Voltage Distribution Network for Coordinated Voltage Regulation“[An automated impedance estimation method in low-voltage distribution network for coordinated voltage regulation](https://ieeexplore.ieee.org/abstract/document/7332957),” in IEEE Trans. Smart Grid, vol. 7, no. 2, pp. 1012–1020, 2016, doi: 10.1109/TSG.2015.2489199.
 
@@ -11,13 +11,10 @@ Matlab 2019
 ## About Authors
 - [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en), daisuke.kodaira03 AT gmail.com
 
-## How to use
+## Structure of the code
+
+## How to run
 - You can run the code from  
  \ImpedanceEstimation\Code\pso calc\main.m  
 - You can get the estimated impedance in  
- EstimatedImpedance.csv  
-
-## 22nd March 2022 Update
-First Update.
-
-## Thank You for Reading!!!
+ EstimatedImpedance.csv
